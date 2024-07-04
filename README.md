@@ -5,8 +5,6 @@ Features:
 
 Real-time Weather Data: Get current weather information for any city or location.
 
-7-Day Forecast: View weather forecasts for the next seven days.
-
 Search Functionality: Easily search for weather information by city name or zip code.
 
 Geolocation: Automatically fetch weather data for the user's current location.
